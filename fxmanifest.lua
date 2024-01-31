@@ -1,7 +1,7 @@
 author 'TK Studios'
 description 'TK Studios - MCard.'
 url 'https://buy.tkstudios.store'
-version '1.0.1'
+version '1.0.2'
 
 fx_version 'cerulean'
 game {'gta5'}
